@@ -7,5 +7,5 @@ require (
 	github.com/gorilla/securecookie v1.1.1
 	github.com/gorilla/sessions v1.2.1
 	github.com/klauspost/compress v1.13.1 // indirect
-	github.com/valyala/fasthttp v1.27.0
+	github.com/valyala/fasthttp v1.28.0
 )
