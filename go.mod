@@ -7,7 +7,7 @@ toolchain go1.24.0
 require (
 	github.com/gorilla/securecookie v1.1.2
 	github.com/gorilla/sessions v1.4.0
-	github.com/valyala/fasthttp v1.60.0
+	github.com/valyala/fasthttp v1.61.0
 )
 
 require (
