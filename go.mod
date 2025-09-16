@@ -1,13 +1,13 @@
 module github.com/orisano/fastcookiesession
 
-go 1.23.0
+go 1.24.0
 
-toolchain go1.24.0
+toolchain go1.24.4
 
 require (
 	github.com/gorilla/securecookie v1.1.2
 	github.com/gorilla/sessions v1.4.0
-	github.com/valyala/fasthttp v1.65.0
+	github.com/valyala/fasthttp v1.66.0
 )
 
 require (
